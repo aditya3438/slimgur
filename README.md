@@ -1,2 +1,2 @@
-# slimgur
-A clone of imgur.
+# Slimgur
+A clone of imgur. My first react project.
